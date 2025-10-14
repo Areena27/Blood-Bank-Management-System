@@ -12,7 +12,7 @@ Reporting: Generate reports on donor activity, blood inventory, and blood reques
 
 ## Technologies Used
 Frontend: HTML5, CSS3, JavaScript
-Backend: Python (Flask/Django)
+Backend: php
 Database: MySQL/SQLite
 Version Control: Git
 Deployment: Localhost/Remote Server
